@@ -1,2 +1,2 @@
 # learn_git
-For learning git
+For learning git - PythonCommunity
